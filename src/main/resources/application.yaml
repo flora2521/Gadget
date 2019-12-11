@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: dmeo
+  rabbitmq:
+    host: 119.27.170.11
+    port: 5672
+    username: admin
+    password: 123456
+    virtual-host:  my-virtual
